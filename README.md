@@ -26,6 +26,10 @@ print(df.tail())
 print("rows",len(df.axes[0]))
 print("columns",len(df.axes[1]))
 
+
+
+
+
 ```
 ## OUTPUT:
 ![OUTPUT](./kamal.png)
